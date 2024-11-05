@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @roslisalleh
 - 👀 I’m interested in learning new technology
-- 🌱 I’m currently learning Cisco DevNet
-- 💞️ I’m looking to collaborate on dont know yet
-- 📫 How to reach me r.solleh@gmail.com
+- 🌱 I’m looking to collaborate on dont know yet
+- 📫 How to reach me rosli_salleh@um.edu.my
 
 <!---
 roslisalleh/roslisalleh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
