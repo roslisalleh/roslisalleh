@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roslisalleh
 - 👀 I’m interested in learning new technology
-- 🌱 I’m looking to collaborate on dont know yet
+- 🌱 I’m looking to collaborate on Cybersecurity project
 - 📫 How to reach me rosli_salleh@um.edu.my
 - 👀 Please refer to my portfolio: https://github.com/roslisalleh/myportfolio
 
